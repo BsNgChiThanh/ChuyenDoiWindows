@@ -35,7 +35,7 @@ Bạn đang sử dụng Windows 10 IoT Enterprise LTSC muốn chuyển qua windo
     slmgr.vbs /xpr
     slmgr /ato
     ```
-  - W269N-WFGWX-YVC9B-4J6C9-T83GX là key KMS Windows 10 Pro.
+  - Với: W269N-WFGWX-YVC9B-4J6C9-T83GX là key KMS Windows 10 Pro.
   - ![image](https://github.com/BsNgChiThanh/ChuyenDoiWindows/assets/82578024/e8e31e3e-7d31-4a15-a82b-8f33377bc674)
   - ...
   - ...
