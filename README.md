@@ -1,5 +1,5 @@
 # CHUYỂN ĐỔI WINDOWS #
-Bạn đang sử dụng windows 10 bản Education thì đây sẽ là vấn đề tốt giúp bạn làm điều đó
+Bạn đang sử dụng Windows 10 IoT Enterprise LTSC muốn chuyển qua windows 10 Pro thì đây sẽ là vấn đề tốt giúp bạn làm điều đó
 
 ## Giải pháp: ##
   - Xóa sạch key Widows
