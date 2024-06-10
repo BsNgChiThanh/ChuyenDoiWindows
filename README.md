@@ -39,6 +39,7 @@ Bạn đang sử dụng Windows 10 IoT Enterprise LTSC muốn chuyển qua windo
   - ...
   - ...
   - Vậy bạn đã có một bản Windows 10 Pro dùng thử 180 ngày, muốn sử dụng vĩnh viễn bạn dùng key MAK hoặc retail để kích hoạt hoặc dùng https://github.com/BsNgChiThanh/MAS-TOOL để kích hoạt vĩnh viễn.
+  - ![image](https://github.com/BsNgChiThanh/ChuyenDoiWindows/assets/82578024/a0fb1bb8-3f65-424f-8c83-3730347f8d70)
   - Done!
 
   
