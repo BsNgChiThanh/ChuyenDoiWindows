@@ -12,12 +12,11 @@ Bạn đang sử dụng Windows 10 IoT Enterprise LTSC muốn chuyển qua windo
   - ![image](https://github.com/BsNgChiThanh/ChuyenDoiWindows/assets/82578024/f358d99c-f453-488e-be51-77a90c5186f1)
   - Chạy **cmd** bằng **Run as Administrator**.
   - ![image](https://github.com/BsNgChiThanh/ChuyenDoiWindows/assets/82578024/318e3df7-7440-49a0-801c-3fc6b6894573)
-  - Dán lần lượt 3 lệnh và bấm enter:
+  - Dán lần lượt 2 lệnh và bấm enter:
 
     ```php
     slmgr /upk
     slmgr /cpky
-    slmgr /rearm
     ```
   - ![image](https://github.com/BsNgChiThanh/ChuyenDoiWindows/assets/82578024/688ee126-b15e-401c-85fd-761b07a37a82)
   - ![image](https://github.com/BsNgChiThanh/ChuyenDoiWindows/assets/82578024/0518f962-3f7a-4b14-8054-d15bf8380d80)
