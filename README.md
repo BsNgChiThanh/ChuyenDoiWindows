@@ -3,7 +3,7 @@ Bạn đang sử dụng windows 10 bản Education thì đây sẽ là vấn đ�
 
 ## Giải pháp: ##
   - Xóa sạch key Widows
-  - Install key KMS bản windows cần muốn chuyển tới.
+  - Install key [KMS](https://github.com/BsNgChiThanh/KeyKMS) bản windows cần muốn chuyển tới.
   - Retart lại máy tính.
   - Dùng MASS Tools để kích hoạt windows là xong.
 
@@ -26,7 +26,7 @@ Bạn đang sử dụng windows 10 bản Education thì đây sẽ là vấn đ�
   - ![image](https://github.com/BsNgChiThanh/ChuyenDoiWindows/assets/82578024/adf64eed-9522-4ce4-bef4-156522357334)
   - ![image](https://github.com/BsNgChiThanh/ChuyenDoiWindows/assets/82578024/3e7a5ce0-d723-4cf8-af2c-a28b9ba2d990)
   - Khởi động máy lại.
-  - Bây giờ lấy key KMS Windows 10 Pro nhận vào là xong.
+  - Bây giờ lấy key [KMS](https://github.com/BsNgChiThanh/KeyKMS) Windows 10 Pro nhận vào là xong.
   - Chạy **cmd** bằng **Run as Administrator**.
   - Dán toàn bộ câu lệnh sau đây vào và nhấn enter hoặc dán từng câu lệnh cũng được:
     ```php
@@ -37,7 +37,10 @@ Bạn đang sử dụng windows 10 bản Education thì đây sẽ là vấn đ�
     ```
   - W269N-WFGWX-YVC9B-4J6C9-T83GX là key KMS Windows 10 Pro.
   - ![image](https://github.com/BsNgChiThanh/ChuyenDoiWindows/assets/82578024/e8e31e3e-7d31-4a15-a82b-8f33377bc674)
-  - 
+  - ...
+  - ...
+  - Vậy bạn đã có một bản Windows 10 Pro dùng thử 180 ngày, muốn sử dụng vĩnh viễn bạn dùng key MAK hoặc retail để kích hoạt hoặc dùng https://github.com/BsNgChiThanh/MAS-TOOL để kích hoạt vĩnh viễn.
+  - Done!
 
   
 
