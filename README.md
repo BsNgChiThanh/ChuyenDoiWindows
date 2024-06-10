@@ -27,7 +27,19 @@ Bạn đang sử dụng windows 10 bản Education thì đây sẽ là vấn đ�
   - ![image](https://github.com/BsNgChiThanh/ChuyenDoiWindows/assets/82578024/3e7a5ce0-d723-4cf8-af2c-a28b9ba2d990)
   - Khởi động máy lại.
   - Bây giờ lấy key KMS Windows 10 Pro nhận vào là xong.
+  - Chạy **cmd** bằng **Run as Administrator**.
+  - Dán toàn bộ câu lệnh sau đây vào và nhấn enter hoặc dán từng câu lệnh cũng được:
+    ```php
+    slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+    slmgr /skms kms.xspace.in
+    slmgr.vbs /xpr
+    slmgr /ato
+    ```
+  - W269N-WFGWX-YVC9B-4J6C9-T83GX là key KMS Windows 10 Pro.
+  - ![image](https://github.com/BsNgChiThanh/ChuyenDoiWindows/assets/82578024/e8e31e3e-7d31-4a15-a82b-8f33377bc674)
   - 
+
+  
 
 
 
