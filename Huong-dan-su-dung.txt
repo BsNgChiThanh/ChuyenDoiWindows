@@ -1,0 +1,69 @@
+	Hướng dẫn nạp SKUs thay đổi phiên bản Windows
+
+Sao chép tất cả nội dung trong thư mục SKUs-Windows tương ứng vào thư mục C:\Windows\System32\spp\tokens\skus
+Mở Command Prompt với quyền Run as administrator lên (đảm bảo xuất hiện C:\Windows\system32>)
+
+NÂNG CẤP LÊN WINDOWS PRO THÌ DÁN CODE SAU VÀO (MUỐN LÊN PHIÊN BẢN NÀO THÌ THAY KEY TƯƠNG ỨNG VỚI PHIÊN BẢN ĐÓ)
+cscript.exe %windir%\system32\slmgr.vbs /rilc
+cscript.exe %windir%\system32\slmgr.vbs /upk >nul 2>&1
+cscript.exe %windir%\system32\slmgr.vbs /ckms >nul 2>&1
+cscript.exe %windir%\system32\slmgr.vbs /cpky >nul 2>&1
+cscript.exe %windir%\system32\slmgr.vbs /ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T
+sc config LicenseManager start= auto & net start LicenseManager
+sc config wuauserv start= auto & net start wuauserv
+clipup -v -o -altto c:\
+echo
+Đợi CMD chạy xong thì bạn khởi động lại máy tính là thành công !
+
+
+	Danh sách key Windows dùng để nạp SKUs
+
+Windows 10 Pro/Windows 11 Pro
+VK7JG-NPHTM-C97JM-9MPGT-3V66T
+X3W8N-3WQCV-2MXDF-K77MK-7XMP6
+W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+Windows 10 Pro for Workstations/Windows 11 Pro for Workstations
+DXG7C-N36C4-C4HTG-X4T3X-2YV77
+NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
+
+Windows 10 Pro Education/Windows 11 Pro Education
+8PTT6-RNW4C-6V7J2-C2D3X-MHBPB
+6TP4R-GNPTD-KYYHQ-7B7DP-J447Y
+
+Windows 10 Pro Single Language/Windows 11 Pro Single Language
+G3KNM-CHG6T-R36X3-9QDG6-8M8K9
+
+Windows 10 Education/Windows 11 Education
+YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
+NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+
+Windows 10 Enterprise/Windows 11 Enterprise
+XGVPP-NMH47-7TTHJ-W3FW7-8HV2C
+NPPR9-FWDCX-D2C8J-H872K-2YT43
+
+Windows 10 IoT Enterprise/Windows 11 IoT Enterprise
+XQQYW-NFFMW-XJPBH-K8732-CKFFD
+
+Windows 10 Home/Windows 11 Home
+YTMG3-N6DKC-DKB77-7M9GH-8HVX7
+
+Windows 10 Home Single Language/Windows 11 Home Single Language
+BT79Q-G7N6G-PGBYW-4YWX6-6F4BT
+
+Windows 10 LTSB 2015
+CJ4JF-8KNY7-PCH2B-Y6B49-MG9R8
+WNMTR-4C88C-JK8YV-HQ7T2-76DF9
+
+Windows 10 LTSB 2016
+NK96Y-D9CD8-W44CQ-R8YTK-DYJWX
+DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ
+
+Windows 10 LTSC 2019
+93MGM-NTFKD-6BK63-R6FYR-6Q9PB
+M7XTQ-FN8P6-TTKYV-9D4CC-J462D
+43TBQ-NH92J-XKTM7-KT3KK-P39PB
+
+Windows 10 LTSC 2021
+M7XTQ-FN8P6-TTKYV-9D4CC-J462D
+
