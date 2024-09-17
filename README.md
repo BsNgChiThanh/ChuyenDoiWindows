@@ -17,6 +17,14 @@
 
   - Dán code phía trên vào CMD rồi Enter. Chờ vài phút, máy tính sẽ tự động được khởi động lại và tự động nâng cấp lên Win 10 Pro.
   - **Lưu ý bạn muốn bản Windows này thì lấy key KMS của bản Windows đó thay vào đoạn mã code ở trên.**
+  - Ví dụ bản Enterprise thì ta có đoạn mã: 
+    
+  ```php
+  sc config LicenseManager start= auto & net start LicenseManager
+  sc config wuauserv start= auto & net start wuauserv
+  changepk.exe /productkey DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+  exit
+  ```
 
 ### CÁCH 2: ###
 
