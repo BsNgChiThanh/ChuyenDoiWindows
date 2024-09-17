@@ -55,7 +55,9 @@
 
   - Nạp SKUs Windows. Đây là cách cuối cùng, đảm bảo thành công 100%. Bạn thảm khảo cách nạp Skus ở [Hướng Dẫn Nạp SKUs Để Thay Đổi Phiên Bản Windows](https://21ak22.com/huong-dan-nap-skus-de-thay-doi-ban-windows.html) ạ.
 
- 
+ ## KÍCH HOẠT BẢN QUYỀN VĨNH VIỄN: ##
+
+ Tham khảo [tại đây](https://github.com/BsNgChiThanh/Kich-hoat-Windows)
 
   
 
