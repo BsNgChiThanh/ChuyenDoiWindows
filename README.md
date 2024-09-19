@@ -72,7 +72,7 @@
 
 2. Dán vào thư mục C:\Windows\System32\spp\tokens\skus của Windows hiện tại.
 
-   - ![image](https://github.com/user-attachments/assets/a766f4a2-2a3d-424d-b8e9-12bd6a141bc7)
+   - ![image](https://github.com/user-attachments/assets/faffb740-e200-4cce-ad31-1dd07bc453db)
 
 3. Bước này:
    - Bạn gõ cmd vào ô tìm kiếm Windows, nhấn chuột phải vào Command Prompt chọn Run as administrator để mở nó lên. Đảm bảo xuất hiện C:\Windows\system32>.
