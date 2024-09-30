@@ -1,4 +1,5 @@
 # CHUYỂN ĐỔI WINDOWS #
+  - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
   - Bạn đang sử dụng Windows 10 IoT Enterprise LTSC muốn chuyển qua windows 10 Pro thì đây sẽ là vấn đề tốt giúp bạn làm điều đó
   - key [KMS](https://github.com/BsNgChiThanh/KeyKMS) bản windows cần muốn chuyển tới.
  
