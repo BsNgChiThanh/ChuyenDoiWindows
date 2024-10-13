@@ -4,8 +4,23 @@
   - key [KMS](https://github.com/BsNgChiThanh/KeyKMS) bản windows cần muốn chuyển tới.
  
 ## Giải pháp: ##
- 
+
 ### CÁCH 1: ###
+  - Dùng MAS Tools để chuyển đổi.
+  - Chạy PowerShell bằng quyền Run as Administrator
+  - Dán câu lệnh sau vào:
+
+    ```php
+    irm https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.ps1 | iex
+    ```
+
+  - ![image](https://github.com/user-attachments/assets/96f4134f-ffbe-415f-845e-c3e6b2e824c5)
+  - Chọn số 6
+  - ![image](https://github.com/user-attachments/assets/a01a8356-85fb-4c19-bf35-06a7aa07cd27)
+  - Lựa chọn phiên bản cần chuyển đổi
+  - Done!
+
+### CÁCH 2: ###
 
   - Chạy **cmd** bằng **Run as Administrator**
 
@@ -27,7 +42,7 @@
     exit
     ```
 
-### CÁCH 2: ###
+### CÁCH 3: ###
 
   - Chạy **cmd** bằng **Run as Administrator**
   
@@ -52,7 +67,7 @@
 
   - Chờ vài phút, bạn khởi động lại máy tính để Win tự nâng cấp lên Win 10 Pro.
 
-### CÁCH 3: ###
+### CÁCH 4: ###
 
   - Nạp SKUs Windows. Đây là cách cuối cùng, đảm bảo thành công 100%. Bạn thảm khảo cách nạp Skus ở [Hướng Dẫn Nạp SKUs Để Thay Đổi Phiên Bản Windows](https://21ak22.com/huong-dan-nap-skus-de-thay-doi-ban-windows.html) ạ.
 
